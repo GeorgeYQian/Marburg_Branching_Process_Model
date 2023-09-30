@@ -1,0 +1,155 @@
+,NEW_SER,DT_ONSET,MO_ONSET,DT_DEATH,Miner
+1,1,#NULL!,1-Oct-98,20-Oct-98,Miner
+2,2,#NULL!,1-Oct-98,1-Nov-98,Miner
+3,5,22-Nov-98,1-Nov-98,28-Nov-98,Not miner
+4,3,10-Nov-98,1-Nov-98,16-Nov-98,Miner
+5,4,13-Nov-98,1-Nov-98,17-Nov-98,Miner
+6,6,26-Nov-98,1-Nov-98,2-Dec-98,Miner
+7,150,28-Dec-98,1-Dec-98,#NULL!,Not miner
+8,152,31-Dec-98,1-Dec-98,#NULL!,Not miner
+9,9,26-Dec-98,1-Dec-98,30-Dec-98,Not miner
+10,11,#NULL!,1-Dec-98,5-Jan-99,Miner
+11,8,20-Dec-98,1-Dec-98,27-Dec-98,Miner
+12,10,27-Dec-98,1-Dec-98,8-Jan-99,Miner
+13,28,#NULL!,1-Jan-99,24-Jan-99,Not miner
+14,30,#NULL!,1-Jan-99,4-Feb-99,Not miner
+15,14,2-Jan-99,1-Jan-99,#NULL!,Not miner
+16,15,5-Jan-99,1-Jan-99,16-Mar-99,Not miner
+17,13,2-Jan-99,1-Jan-99,2-Feb-99,Not miner
+18,17,#NULL!,1-Jan-99,#NULL!,Miner
+19,29,#NULL!,1-Jan-99,27-Jan-99,Miner
+20,12,1-Jan-99,1-Jan-99,19-Feb-99,Miner
+21,16,7-Jan-99,1-Jan-99,#NULL!,Miner
+22,18,8-Jan-99,1-Jan-99,12-Jan-99,Miner
+23,19,9-Jan-99,1-Jan-99,#NULL!,Miner
+24,20,15-Jan-99,1-Jan-99,#NULL!,Miner
+25,21,15-Jan-99,1-Jan-99,2-Feb-99,Miner
+26,7,18-Jan-99,1-Jan-99,5-Feb-99,Miner
+27,22,19-Jan-99,1-Jan-99,22-Jan-99,Miner
+28,23,19-Jan-99,1-Jan-99,26-Jan-99,Miner
+29,24,20-Jan-99,1-Jan-99,29-Jan-99,Miner
+30,25,20-Jan-99,1-Jan-99,25-Jan-99,Miner
+31,26,23-Jan-99,1-Jan-99,5-Feb-99,Miner
+32,27,25-Jan-99,1-Jan-99,31-Jan-99,Miner
+33,31,#NULL!,1-Jan-99,4-Feb-99,Miner
+34,36,#NULL!,1-Feb-99,10-Feb-99,Not miner
+35,35,20-Feb-99,1-Feb-99,23-Feb-99,Not miner
+36,33,2-Feb-99,1-Feb-99,5-Feb-99,Not miner
+37,41,25-Feb-99,1-Feb-99,12-Mar-99,Not miner
+38,42,25-Feb-99,1-Feb-99,10-Mar-99,Not miner
+39,34,7-Feb-99,1-Feb-99,10-Feb-99,Not miner
+40,32,1-Feb-99,1-Feb-99,12-Feb-99,Miner
+41,37,10-Feb-99,1-Feb-99,22-Feb-99,Miner
+42,38,16-Feb-99,1-Feb-99,18-Feb-99,Miner
+43,39,20-Feb-99,1-Feb-99,23-Feb-99,Miner
+44,40,21-Feb-99,1-Feb-99,1-Mar-99,Miner
+45,43,25-Feb-99,1-Feb-99,7-Mar-99,Miner
+46,45,5-Mar-99,1-Mar-99,16-Mar-99,Not miner
+47,44,#NULL!,1-Mar-99,6-Mar-99,Not miner
+48,52,18-Mar-99,1-Mar-99,17-Apr-99,Not miner
+49,58,30-Mar-99,1-Mar-99,6-Apr-99,Not miner
+50,60,30-Mar-99,1-Mar-99,#NULL!,Not miner
+51,49,11-Mar-99,1-Mar-99,13-Mar-99,Not miner
+52,47,7-Mar-99,1-Mar-99,14-Mar-99,Not miner
+53,51,17-Mar-99,1-Mar-99,27-Mar-99,Not miner
+54,151,7-Mar-99,1-Mar-99,#NULL!,Miner
+55,55,#NULL!,1-Mar-99,27-Mar-99,Miner
+56,56,#NULL!,1-Mar-99,20-Mar-99,Miner
+57,59,#NULL!,1-Mar-99,8-Apr-99,Miner
+58,46,6-Mar-99,1-Mar-99,12-Mar-99,Miner
+59,48,9-Mar-99,1-Mar-99,15-Mar-99,Miner
+60,50,13-Mar-99,1-Mar-99,18-Mar-99,Miner
+61,53,18-Mar-99,1-Mar-99,26-Mar-99,Miner
+62,54,23-Mar-99,1-Mar-99,25-Mar-99,Miner
+63,57,30-Mar-99,1-Mar-99,6-Apr-99,Miner
+64,148,#NULL!,1-Mar-99,#NULL!,Miner
+65,63,5-Apr-99,1-Apr-99,#NULL!,Not miner
+66,65,#NULL!,1-Apr-99,15-Apr-99,Not miner
+67,64,7-Apr-99,1-Apr-99,11-Apr-99,Not miner
+68,66,7-Apr-99,1-Apr-99,7-Apr-99,Not miner
+69,72,21-Apr-99,1-Apr-99,23-May-99,Not miner
+70,74,22-Apr-99,1-Apr-99,24-Apr-99,Not miner
+71,68,10-Apr-99,1-Apr-99,21-Apr-99,Not miner
+72,76,30-Apr-99,1-Apr-99,9-May-99,Not miner
+73,67,25-Apr-99,1-Apr-99,30-Apr-99,Not miner
+74,73,#NULL!,1-Apr-99,24-Apr-99,Not miner
+75,69,10-Apr-99,1-Apr-99,23-Apr-99,Not miner
+76,75,26-Apr-99,1-Apr-99,#NULL!,Not miner
+77,61,1-Apr-99,1-Apr-99,1-Apr-99,Not miner
+78,62,2-Apr-99,1-Apr-99,13-Apr-99,Miner
+79,70,12-Apr-99,1-Apr-99,19-Apr-99,Miner
+80,71,18-Apr-99,1-Apr-99,22-Apr-99,Miner
+81,80,5-May-99,1-May-99,#NULL!,Not miner
+82,82,8-May-99,1-May-99,#NULL!,Not miner
+83,81,6-May-99,1-May-99,10-May-99,Not miner
+84,90,#NULL!,1-May-99,#NULL!,Not miner
+85,77,1-May-99,1-May-99,#NULL!,Not miner
+86,85,1-May-99,1-May-99,14-May-99,Not miner
+87,87,9-May-99,1-May-99,#NULL!,Not miner
+88,86,#NULL!,1-May-99,#NULL!,Not miner
+89,88,18-May-99,1-May-99,20-May-99,Not miner
+90,89,#NULL!,1-May-99,30-May-99,Not miner
+91,83,#NULL!,1-May-99,#NULL!,Not miner
+92,79,4-May-99,1-May-99,#NULL!,Miner
+93,78,1-May-99,1-May-99,#NULL!,Miner
+94,84,8-May-99,1-May-99,13-May-99,Miner
+95,93,15-Jun-99,1-Jun-99,22-Jun-99,Not miner
+96,94,29-Jun-99,1-Jun-99,#NULL!,Not miner
+97,91,1-Jun-99,1-Jun-99,#NULL!,Not miner
+98,92,11-Jun-99,1-Jun-99,#NULL!,Miner
+99,96,9-Jul-99,5-Jul-99,#NULL!,Not miner
+100,95,5-Jul-99,5-Jul-99,#NULL!,Miner
+101,97,#NULL!,1-Aug-99,#NULL!,Not miner
+102,100,18-Aug-99,1-Aug-99,21-Aug-99,Not miner
+103,102,21-Aug-99,1-Aug-99,26-Aug-99,Not miner
+104,101,21-Aug-99,1-Aug-99,24-Aug-99,Not miner
+105,98,1-Aug-99,1-Aug-99,15-Aug-99,Miner
+106,99,6-Aug-99,1-Aug-99,#NULL!,Miner
+107,149,11-Sep-99,1-Sep-99,18-Sep-99,Not miner
+108,103,#NULL!,1-Nov-99,25-Nov-99,Not miner
+109,104,#NULL!,1-Dec-99,20-Dec-99,Not miner
+110,105,26-Dec-99,1-Dec-99,26-Jan-00,Miner
+111,106,1-Jan-00,1-Jan-00,22-Jan-00,Miner
+112,107,8-Jan-00,1-Jan-00,15-Jan-00,Miner
+113,108,15-Jan-00,1-Jan-00,29-Jan-00,Miner
+114,109,22-Jan-00,1-Jan-00,27-Jan-00,Miner
+115,111,#NULL!,1-Feb-00,#NULL!,Not miner
+116,112,#NULL!,1-Feb-00,#NULL!,Not miner
+117,113,#NULL!,1-Feb-00,#NULL!,Not miner
+118,124,29-Feb-00,1-Feb-00,6-Mar-00,Not miner
+119,116,7-Feb-00,1-Feb-00,14-Feb-00,Not miner
+120,118,12-Feb-00,1-Feb-00,20-Feb-00,Not miner
+121,120,14-Feb-00,1-Feb-00,#NULL!,Not miner
+122,122,24-Feb-00,1-Feb-00,27-Feb-00,Not miner
+123,110,1-Feb-00,1-Feb-00,#NULL!,Not miner
+124,115,2-Feb-00,1-Feb-00,#NULL!,Not miner
+125,123,#NULL!,1-Feb-00,3-Mar-00,Miner
+126,114,1-Feb-00,1-Feb-00,#NULL!,Miner
+127,117,11-Feb-00,1-Feb-00,18-Feb-00,Miner
+128,119,13-Feb-00,1-Feb-00,23-Feb-00,Miner
+129,121,23-Feb-00,1-Feb-00,1-Mar-00,Miner
+130,125,3-Mar-00,1-Mar-00,13-Mar-00,Not miner
+131,127,18-Mar-00,1-Mar-00,24-Mar-00,Not miner
+132,126,5-Mar-00,1-Mar-00,14-Mar-00,Not miner
+133,129,19-Mar-00,1-Mar-00,26-Mar-00,Not miner
+134,131,23-Mar-00,1-Mar-00,27-Mar-00,Not miner
+135,128,19-Mar-00,1-Mar-00,26-Mar-00,Not miner
+136,130,22-Mar-00,1-Mar-00,28-Mar-00,Not miner
+137,132,4-Apr-00,1-Apr-00,11-Apr-00,Not miner
+138,133,22-Apr-00,1-Apr-00,29-Apr-00,Miner
+139,134,17-May-00,1-May-00,24-May-00,Not miner
+140,135,10-Jun-00,1-Jun-00,12-Jun-00,Not miner
+141,139,19-Jul-00,1-Jul-00,22-Jul-00,Not miner
+142,136,3-Jul-00,1-Jul-00,13-Jul-00,Miner
+143,137,9-Jul-00,1-Jul-00,13-Jul-00,Miner
+144,138,14-Jul-00,1-Jul-00,25-Jul-00,Miner
+145,140,19-Jul-00,1-Jul-00,26-Jul-00,Miner
+146,145,25-Aug-00,1-Aug-00,2-Sep-00,Not miner
+147,147,27-Aug-00,1-Aug-00,5-Sep-00,Not miner
+148,142,5-Aug-00,1-Aug-00,10-Aug-00,Miner
+149,141,5-Aug-00,1-Aug-00,#NULL!,Miner
+150,143,11-Aug-00,1-Aug-00,20-Aug-00,Miner
+151,144,13-Aug-00,1-Aug-00,23-Aug-00,Miner
+152,146,23-Aug-00,1-Aug-00,1-Sep-00,Miner
+153,154,30-Nov-00,1-Nov-00,7-Dec-00,Not miner
+154,153,5-Dec-00,1-Dec-00,15-Dec-00,Miner
